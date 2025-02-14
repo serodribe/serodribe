@@ -1,19 +1,13 @@
 ## Hi there 👋
 
-Welcome to my GitHub repository! 🚀 This space contains files, scripts, and resources for my PhD research in high-energy physics, focusing on a beyond Standard Model process using Monte Carlo simulations and machine learning.
+Welcome to my GitHub repository! 🚀 This space contains files, scripts, and resources for my PhD research in high-energy physics, focusing on beyond Standard Model processes using Monte Carlo simulations and machine learning.
 
-## Research Overview 🧪
+## Repository Contents 🧪📂
 
-I work on:
-- **Event Simulation:** Generating and analyzing signal and background events.
-- **Jet Reconstruction:** Identifying jet substructure and relevant signatures.
-- **Machine Learning:** Using classification models to distinguish events.
-- **Statistical Analysis:** Evaluating significance with various methods.
-
-## Repository Contents 📂
-
-- **Simulation Scripts:** Monte Carlo event generation (MadGraph, Pythia, Delphes).
-- **Data Processing:** Feature extraction and transformation.
-- **ML Models:** Neural networks for classification.
-- **Statistical Analysis:** Performance evaluation and significance tests.
-- **Documentation:** Theory, methodology, and usage guides.
+This repository includes:
+- **Event Simulation:** Generating and analyzing signal and background events (MadGraph, Pythia, Delphes).
+- **Kinematical Reconstruction:** Identifying jet substructure and relevant signatures.
+- **Machine Learning:** Implementing neural networks and other classification models.
+- **Statistical Analysis:** Evaluating performance using significance tests and other methods.
+- **Data Processing:** Feature extraction, transformation, and handling for analysis.
+- **Documentation:** Theory, methodology, and step-by-step usage guides.
