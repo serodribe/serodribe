@@ -4,7 +4,7 @@ Welcome to my GitHub repository! 🚀 This space contains files, scripts, and re
 
 ## Repository Contents 🧪📂
 
-This repository includes:
+This repository includes scripts and programs for:
 - **Event Simulation:** Generating and analyzing signal and background events (MadGraph, Pythia, Delphes).
 - **Kinematical Reconstruction:** Identifying jet substructure and relevant signatures.
 - **Machine Learning:** Implementing neural networks and other classification models.
